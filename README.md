@@ -28,7 +28,7 @@ worksheet = "Sheet1"
 
 #### excel data, to see data open abc.xlsx
 
-|     |                   |            |           | 
+
 |-----|-------------------|------------|-----------| 
 | N/A | N/A               | Name       | Name      | 
 | id  | email             | first Name | last Name | 
@@ -40,7 +40,7 @@ worksheet = "Sheet1"
 
 example : 
 
-|            |           | 
+
 |------------|-----------| 
 | Name       | Name      | 
 | first Name | last Name | 
