@@ -28,11 +28,12 @@ worksheet = "Sheet1"
 
 #### excel data, to see data open abc.xlsx
 
-
+|     |                   |            |           | 
 |-----|-------------------|------------|-----------| 
 | N/A | N/A               | Name       | Name      | 
 | id  | email             | first Name | last Name | 
 | 123 | avinash2fly@gmail | Avinash    | Gupta     | 
+
 
 
 1) N/A : if no master header or just one header
@@ -40,12 +41,11 @@ worksheet = "Sheet1"
 
 example : 
 
-
+|            |           | 
 |------------|-----------| 
 | Name       | Name      | 
 | first Name | last Name | 
 | Avinash    | Gupta     | 
-
 
 #### run file
 >python3 convertor.py
