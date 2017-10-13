@@ -3,7 +3,7 @@ import sys
 
 import xlrd
 
-excelFile = "abc.xls"
+excelFile = "abc.xlsx"
 # e.g excelFile = "/Users/avinashgupta/Documents/abc.xlsx"
 
 worksheet = "Sheet1"
