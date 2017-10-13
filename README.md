@@ -1,5 +1,6 @@
 # Excel-to-JSON-convertor
-Excel to JSON Convertor
+
+It can convert Excel to JSON two level of header.
 
 ## Steps
 
