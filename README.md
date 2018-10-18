@@ -4,6 +4,12 @@ It can convert Excel to JSON with two level of header.
 
 ## Steps
 
+### Install Dependencies
+
+```cmd
+pip install -r requriements.txt
+```
+
 ### Change Varibles
 
 #### Assign respective Value for the given two variable
